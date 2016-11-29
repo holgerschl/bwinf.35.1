@@ -1,0 +1,98 @@
+
+Lade Datei './data/rotation1_03.txt'... 
+
+########
+#     0#
+#     0#
+#112222#
+#33   4#
+#55   4#
+#666  4#
+### ####
+
+Startzustand erfolgreich geladen.
+Spielfeldgröße: 8 x 8
+
+Suche Lösung, bitte warten... 
+Fertig. [0.002121 Sek.]
+
+Lösungsweg gefunden (6 Drehungen):links,links,links,links,rechts,links
+
+
+Startzustand: 
+
+########
+#     0#
+#     0#
+#112222#
+#33   4#
+#55   4#
+#666  4#
+### ####
+
+Puzzle nach links-Rotation:
+
+########
+#  2   #
+#  2   #
+#  2444#
+#  2  6 
+#  1356#
+#001356#
+########
+
+Puzzle nach links-Rotation:
+
+#### ###
+#   666#
+#    55#
+#  4 33#
+#  4 11#
+#  4  0#
+#2222 0#
+########
+
+Puzzle nach links-Rotation:
+
+########
+#      #
+#    00#
+      2#
+#6 31 2#
+#6531 2#
+#654442#
+########
+
+Puzzle nach links-Rotation:
+
+########
+#  2222#
+#     4#
+#   114#
+#   334#
+# 0  55#
+# 0 666#
+### ####
+
+Puzzle nach rechts-Rotation:
+
+########
+#      #
+#      #
+ 00   2#
+#6 31 2#
+#6531 2#
+#654442#
+########
+
+Puzzle nach links-Rotation:
+
+########
+#  2222#
+#     4#
+#   114#
+#   334#
+#    55#
+#  0666#
+###0####
+

@@ -1,0 +1,16 @@
+
+Lade Datei './data/eigen1.txt'... 
+
+#####
+#0  #
+#0  #
+#   #
+## ##
+
+Startzustand erfolgreich geladen.
+Spielfeldgröße: 5 x 5
+
+Suche Lösung, bitte warten... 
+Fertig. [0.000139 Sek.]
+
+Kein Lösungsweg gefunden.

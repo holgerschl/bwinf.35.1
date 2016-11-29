@@ -1,0 +1,50 @@
+
+Lade Datei './data/eigen2.txt'... 
+
+### ###
+#     #
+#     #
+#     #
+#    1#
+#  001#
+#######
+
+Startzustand erfolgreich geladen.
+Spielfeldgröße: 7 x 7
+
+Suche Lösung, bitte warten... 
+Fertig. [0.000144 Sek.]
+
+Lösungsweg gefunden (2 Drehungen):links,links
+
+
+Startzustand: 
+
+### ###
+#     #
+#     #
+#     #
+#    1#
+#  001#
+#######
+
+Puzzle nach links-Rotation:
+
+#######
+#     #
+#     #
+    11#
+#    0#
+#    0#
+#######
+
+Puzzle nach links-Rotation:
+
+#######
+#   00#
+#     #
+#     #
+#     #
+#  1  #
+###1###
+

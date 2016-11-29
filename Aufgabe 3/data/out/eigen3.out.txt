@@ -1,0 +1,82 @@
+
+Lade Datei './data/eigen3.txt'... 
+
+#########
+# 00  1 #
+# 2   1 #
+#32   14#
+#32    4#
+#32    4#
+#55   66#
+#777  88#
+#### ####
+
+Startzustand erfolgreich geladen.
+Spielfeldgröße: 9 x 9
+
+Suche Lösung, bitte warten... 
+Fertig. [0.001067 Sek.]
+
+Lösungsweg gefunden (4 Drehungen):rechts,rechts,links,links
+
+
+Startzustand: 
+
+#########
+# 00  1 #
+# 2   1 #
+#32   14#
+#32    4#
+#32    4#
+#55   66#
+#777  88#
+#### ####
+
+Puzzle nach rechts-Rotation:
+
+#########
+#       #
+#       #
+#7      #
+ 75333 0#
+#7522220#
+#86  111#
+#86444  #
+#########
+
+Puzzle nach rechts-Rotation:
+
+#### ####
+#  777  #
+#  55   #
+#882    #
+#6623   #
+#4123   #
+#4123   #
+#4100   #
+#########
+
+Puzzle nach links-Rotation:
+
+#########
+#       #
+#       #
+#       #
+    3330#
+#7 22220#
+#7586111#
+#7586444#
+#########
+
+Puzzle nach links-Rotation:
+
+#########
+#   0014#
+#     14#
+#    214#
+#    266#
+#    288#
+#   3255#
+#   3777#
+####3####
+

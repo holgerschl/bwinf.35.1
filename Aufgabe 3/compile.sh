@@ -1,0 +1,1 @@
+g++ ./src/main.cpp -o ./bin/linux_64_o3.out -std=c++11 -O3

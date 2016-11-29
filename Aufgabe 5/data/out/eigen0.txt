@@ -1,0 +1,12 @@
+
+Lade Datei 'data/eigen0.txt'
+
+Startpunkt Minnie:	(0,10.1)
+Startpunkt Max: 	(0,95.4)
+Letzte Buhnenreihe (X):	70
+Lücken: 3
+
+Suche Minnieweg, bitte warten....fertig; 0.00033 Sek.
+
+Minnieweg gefunden: (2 Lücken)
+(0,10.1), (70,9.9)

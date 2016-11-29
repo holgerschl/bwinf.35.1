@@ -1,0 +1,12 @@
+
+Lade Datei 'data/buhnenrennen6.txt'
+
+Startpunkt Minnie:	(0,135.45)
+Startpunkt Max: 	(0,243.9)
+Letzte Buhnenreihe (X):	1190
+Lücken: 78
+
+Suche Minnieweg, bitte warten....fertig; 0.000659 Sek.
+
+Minnieweg gefunden: (18 Lücken)
+(0,135.45), (70,119.4), (140,119.25), (210,121.45), (280,123.45), (350,106.95), (420,141.45), (490,118.9), (560,118.1), (630,84.6), (700,116.5), (770,126.05), (840,123), (910,131.1), (980,91.1), (1050,71.55), (1120,11.45), (1190,26.1)
